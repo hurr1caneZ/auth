@@ -1,0 +1,37 @@
+.registration-container{
+    margin: 0 auto;
+    width: 50%;
+    padding: 20em;
+    text-align: center;
+}
+
+input, button{
+    display: inline-block;
+    color: white;
+    font-size: 160%;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 3px solid white;
+    padding: 6px 20px;
+    overflow: hidden;
+    font-family: "Arial Black", serif;
+}
+
+#email:hover{
+    background-color: dodgerblue;
+    box-shadow: 3px 3px black;
+}
+
+#password:hover{
+    background-color: dodgerblue;
+    box-shadow: 3px 3px black;
+}
+
+#submit:hover{
+    background-color: dodgerblue;
+    box-shadow: 3px 3px black;
+}
+
+*{
+    background-color: deepskyblue;
+}
